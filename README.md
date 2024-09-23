@@ -67,13 +67,6 @@ curl -X GET https://raw.githubusercontent.com/devil-iptv/fancode-live/refs/heads
  <a href="https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_hls_m3u8.Json?"><img src="https://github.com/byte-capsule/FanCode-Hls-Fetcher/blob/main/images/output.jpg"></a>
 </h1>
 
-# 🎥 How To Play
-
-
-* Add the URL to your Player Playlist Section
-* RAW URL [Playlist Link](https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_Live.m3u)
-* SHORT URL https://s.id/21HE6
-
 *  Enjoy 😊
 
 
@@ -97,8 +90,6 @@ curl -X GET https://raw.githubusercontent.com/devil-iptv/fancode-live/refs/heads
 
 
 
-# 🚬 Credits
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Byte+Capsule)](https://git.io/typing-svg)
 
 # 💙 Contributing
 * Provide a premium account of FanCode to run the script smoothly ☺️
@@ -115,18 +106,3 @@ curl -X GET https://raw.githubusercontent.com/devil-iptv/fancode-live/refs/heads
 # 💰 Support
 
 <a href="https://www.buymeacoffee.com/jeshanakanc" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
-
-
-# 📬 Find Me on 
-
-- [![Github](https://img.shields.io/badge/Github-Byte_Capsule-purple?style=for-the-badge&logo=github)](https://github.com/byte-capsule)
-
-- [![Gmail](https://img.shields.io/badge/Gmail-Byte_Capsule-green?style=for-the-badge&logo=gmail)](mailto:jeshanakand2017@gmail.com)
-
-- [![Facebook](https://img.shields.io/badge/Facebook-Jeshan_Akand-blue?style=for-the-badge&logo=facebook)](https://t.me/J_9X_H_9X_N)
-
-- [![Messenger](https://img.shields.io/badge/Messenger-Jeshan_Akand-orange?style=for-the-badge&logo=messenger)](https://t.me/J_9X_H_9X_N)
-
-- [![Telegram](https://img.shields.io/badge/Telegram-Byte_Capsule-indigo?style=for-the-badge&logo=telegram)](https://t.me/J_9X_H_9X_N)
