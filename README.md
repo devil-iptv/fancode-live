@@ -48,14 +48,14 @@
 
 # 👨‍💻How To Use
 **For Fetching HLS Links**
-* 👉 **[Auto Updated Json File](https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_hls_m3u8.Json)**
+* 👉 **[Auto Updated Json File](https://raw.githubusercontent.com/devil-iptv/fancode-live/refs/heads/main/fancode.json)**
 * Use Get Request
 
 
 
 
 ```
-curl -X GET https://raw.githubusercontent.com/byte-capsule/FanCode-Hls-Fetcher/main/Fancode_hls_m3u8.Json
+curl -X GET https://raw.githubusercontent.com/devil-iptv/fancode-live/refs/heads/main/fancode.json
 
 ```
 
