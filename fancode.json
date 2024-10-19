@@ -1,106 +1,167 @@
 {
-  "name": "Fancode Live Matches Data in Json",
-  "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-  "last update time": "11:20:27 24-09-2024",
-  "matches": [
-    {
-      "event_category": "cricket",
-      "event_name": "grand rumble t10 championship season 4 2024",
-      "match_name": "pak wolves vs global stars",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109316_4499_GS_PKW_fc-web.jpg",
-      "match_id": "109316",
-      "status": "live",
-      "stream_link": "https://dai.google.com/linear/hls/event/-3WXF5vwQaasABZhR8cT3A/master.m3u8"
-    },
-    {
-      "event_category": "hockey",
-      "event_name": "14th hockey india sub jrmen national championship",
-      "match_name": "hockey karnataka vs manipur hockey",
-      "src": "https://images.fancode.com/aig/match/v1/109759_CASACARDS_APP.png",
-      "match_id": "109759",
-      "status": "live",
-      "stream_link": "https://dai.fancode.com/primary/109759_english_hls_4993adfreeta-no/index.m3u8"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "australia tour of england 2024",
-      "match_name": "england vs australia",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/Australia-tour-of-England_ODI_old_match-card_1726893730609.jpg",
-      "match_id": "107247",
-      "status": "upcoming",
-      "startTime": "05:00:00 PM 24-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "caribbean premier league 2024",
-      "match_name": "trinbago knight riders vs saint lucia kings",
-      "src": "https://fancode.com/skillup-uploads/prod-images/2024/08/104230_4287_TKR_SLK_fc-web.jpg",
-      "match_id": "104230",
-      "status": "upcoming",
-      "startTime": "07:30:00 PM 24-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "icc mens t20 wc africa sub regional qualifier a",
-      "match_name": "ghana vs lesotho",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108126_4451_LES_GHA_fc-web.jpg",
-      "match_id": "108126",
-      "status": "upcoming",
-      "startTime": "12:00:00 PM 24-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "grand rumble t10 championship season 4 2024",
-      "match_name": "mr kb putrajaya cc vs snk lions malaysia",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109317_4499_MKP_SNK_fc-web.jpg",
-      "match_id": "109317",
-      "status": "upcoming",
-      "startTime": "01:30:00 PM 24-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "dream11 european cricket championship 2024",
-      "match_name": "bulgaria vs isle of man",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109458_4514_BUL_IM_fc-web.jpg",
-      "match_id": "109458",
-      "status": "upcoming",
-      "startTime": "03:15:00 PM 24-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "icc mens t20 wc africa sub regional qualifier a",
-      "match_name": "tanzania vs cameroon",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108127_4451_TAN_CAM_fc-web.jpg",
-      "match_id": "108127",
-      "status": "upcoming",
-      "startTime": "04:20:00 PM 24-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "icc mens t20 wc africa sub regional qualifier a",
-      "match_name": "mali vs malawi",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/108128_4451_MLI_MAL_fc-web.jpg",
-      "match_id": "108128",
-      "status": "upcoming",
-      "startTime": "04:20:00 PM 24-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "dream11 european cricket championship 2024",
-      "match_name": "estonia vs croatia",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109459_4514_EST_CRO_fc-web.jpg",
-      "match_id": "109459",
-      "status": "upcoming",
-      "startTime": "05:15:00 PM 24-09-2024"
-    },
-    {
-      "event_category": "cricket",
-      "event_name": "zim afro t10 2024",
-      "match_name": "nys lagos vs durban wolves",
-      "src": "https://www.fancode.com/skillup-uploads/cms-media/109168_4493_NYSL_DB_fc-web_1726824494328.jpg",
-      "match_id": "109168",
-      "status": "upcoming",
-      "startTime": "06:30:00 PM 24-09-2024"
-    }
-  ]
+    "name": "Fancode Live Matches Data in Json",
+    "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
+    "last update time": "07:04:58 PM 19-10-2024",
+    "matches": [
+        {
+            "event_category": "Formula 1",
+            "title": "Sprint vs United States of America (F1 PIRELLI UNITED STATES GRAND PRIX 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-PIRELLI-UNITED-STATES-GRAND-PRIX-2024-TV-old-match-card.png",
+            "team_1": "Sprint",
+            "team_2": "United States of America",
+            "status": "UPCOMING",
+            "event_name": "F1 PIRELLI UNITED STATES GRAND PRIX 2024",
+            "match_name": "Sprint",
+            "match_id": 95230,
+            "startTime": "11:30:00 PM 19-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kenya vs Mozambique (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110624_4557_GAM_RWA_fc-web-2_1729304747057.jpg",
+            "team_1": "Kenya",
+            "team_2": "Mozambique",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+            "match_name": "Kenya vs Mozambique",
+            "match_id": 110626,
+            "startTime": "04:20:00 PM 19-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/wkzsPPS9QXCVBpOUbZg0xQ/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110626_english_hls_5252ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Zimbabwe vs Seychelles (ICC Men's T20 WC Africa Sub Regional Qualifier B)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/110624_4557_GAM_RWA_fc-web-1_1729304833026.jpg",
+            "team_1": "Zimbabwe",
+            "team_2": "Seychelles",
+            "status": "LIVE",
+            "event_name": "ICC Men's T20 WC Africa Sub Regional Qualifier B",
+            "match_name": "Zimbabwe vs Seychelles",
+            "match_id": 110625,
+            "startTime": "04:20:00 PM 19-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/nQtTXXRMQzeJ7dB-BRXItw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110625_english_hls_8736ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Netherlands XI vs England XI (Dream11 European Cricket Championship, 2024)",
+            "src": "https://images.fancode.com/aig/match/v1/109576_CASACARDS_APP.png",
+            "team_1": "Netherlands XI",
+            "team_2": "England XI",
+            "status": "LIVE",
+            "event_name": "Dream11 European Cricket Championship, 2024",
+            "match_name": "Netherlands XI vs England XI",
+            "match_id": 109576,
+            "startTime": "06:00:00 PM 19-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/8ydANop5TKGkP9empVjj7Q/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109576_english_hls_6020ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Golf",
+            "title": "Day 3 vs Real Club de Golf Sotogrande, Andalucia (Estrella Damm N.A. Andaluc\u00eda Masters)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Estrella-Damm-NA-Andalucia-Masters_old-match-card.jpg",
+            "team_1": "Day 3",
+            "team_2": "Real Club de Golf Sotogrande, Andalucia",
+            "status": "LIVE",
+            "event_name": "Estrella Damm N.A. Andaluc\u00eda Masters",
+            "match_name": "Day 3",
+            "match_id": 110861,
+            "startTime": "05:00:00 PM 19-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/aTXzBod2RL2Ybm4pCUOpPA/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/110861_english_hls_8764ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Central Court, Brazil vs Joao Pessoa, Brazil (Volleyball Beach Pro Tour)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(1)_1729305614126.png",
+            "team_1": "Central Court, Brazil",
+            "team_2": "Joao Pessoa, Brazil",
+            "status": "LIVE",
+            "event_name": "Volleyball Beach Pro Tour",
+            "match_name": "Central Court, Brazil",
+            "match_id": 111894,
+            "startTime": "05:30:00 PM 19-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/AYX1t7aaTgetrIerKdJfKw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111894_english_hls_5833ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Live Events",
+            "title": "Court 2, Brazil vs Joao Pessoa, Brazil (Volleyball Beach Pro Tour)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Volleyball-Beach-Pro-old-match-card-2-(1)_1729305614126.png",
+            "team_1": "Court 2, Brazil",
+            "team_2": "Joao Pessoa, Brazil",
+            "status": "LIVE",
+            "event_name": "Volleyball Beach Pro Tour",
+            "match_name": "Court 2, Brazil",
+            "match_id": 111893,
+            "startTime": "05:30:00 PM 19-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/uBWejb9nT1u8XT3xcmhFAw/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/111893_english_hls_8563ta-di/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Oxford United vs West Bromwich Albion (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Oxford-United-vs-West-Bromwich-Albion)_fc-wpp.jpg",
+            "team_1": "Oxford United",
+            "team_2": "West Bromwich Albion",
+            "status": "LIVE",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Oxford United vs West Bromwich Albion",
+            "match_id": 109816,
+            "startTime": "05:00:00 PM 19-10-2024",
+            "dai_url": "https://dai.google.com/linear/hls/event/yy4_V51TRri4YeafutEE3w/master.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109816_english_hls_6751ta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Beijing Guoan vs Qingdao Hainiu (Chinese Super League 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/BG_QH_Old_fc_web.jpg",
+            "team_1": "Beijing Guoan",
+            "team_2": "Qingdao Hainiu",
+            "status": "LIVE",
+            "event_name": "Chinese Super League 2024",
+            "match_name": "Beijing Guoan vs Qingdao Hainiu",
+            "match_id": 109884,
+            "startTime": "05:05:00 PM 19-10-2024",
+            "dai_url": "https://dai.fancode.com/primary/109884_english_hls_5467adfreeta-no/index.m3u8",
+            "adfree_url": "https://dai.fancode.com/primary/109884_english_hls_5467adfreeta-no/index.m3u8"
+        },
+        {
+            "event_category": "Football",
+            "title": "Millwall vs Derby County (EFL Championship 2024-25)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Millwall-vs-Derby-County_fc-web.jpg",
+            "team_1": "Millwall",
+            "team_2": "Derby County",
+            "status": "UPCOMING",
+            "event_name": "EFL Championship 2024-25",
+            "match_name": "Millwall vs Derby County",
+            "match_id": 111928,
+            "startTime": "07:30:00 PM 19-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Sri Lanka vs West Indies (West Indies tour of Sri Lanka, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Sri-Lanka-ODI-Old-match-card.png",
+            "team_1": "Sri Lanka",
+            "team_2": "West Indies",
+            "status": "UPCOMING",
+            "event_name": "West Indies tour of Sri Lanka, 2024",
+            "match_name": "Sri Lanka vs West Indies",
+            "match_id": 109870,
+            "startTime": "02:30:00 PM 20-10-2024"
+        },
+        {
+            "event_category": "Cricket",
+            "title": "Kuwait Emerging Stars vs Kuwait Swedish (KCC T20 Elite Cup, 2024)",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/KCC-T20-Elite-Cup-3rd-Edition_old_03.jpg",
+            "team_1": "Kuwait Emerging Stars",
+            "team_2": "Kuwait Swedish",
+            "status": "UPCOMING",
+            "event_name": "KCC T20 Elite Cup, 2024",
+            "match_name": "Kuwait Emerging Stars vs Kuwait Swedish",
+            "match_id": 110496,
+            "startTime": "11:00:00 PM 19-10-2024"
+        }
+    ]
 }
